@@ -36,7 +36,7 @@ selenium==3.141.0
 six==1.15.0
 TikTokApi==3.5.5
 tornado==6.0.4
-tqdm==4.50.2
+tqdm==4.66.3
 traitlets==5.0.5
 urllib3==1.25.10
 wcwidth==0.2.5
