@@ -5,7 +5,7 @@ certifi==2020.6.20
 chardet==3.0.4
 cycler==0.10.0
 decorator==4.4.2
-idna==2.10
+idna==3.7
 ipykernel==5.3.4
 ipython==7.18.1
 ipython-genutils==0.2.0
