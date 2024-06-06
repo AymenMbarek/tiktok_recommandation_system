@@ -35,7 +35,7 @@ seaborn==0.11.0
 selenium==3.141.0
 six==1.15.0
 TikTokApi==3.5.5
-tornado==6.0.4
+tornado==6.4.1
 tqdm==4.50.2
 traitlets==5.0.5
 urllib3==1.25.10
